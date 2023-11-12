@@ -17,7 +17,7 @@ root.resizable(False,False)
 
 
 ##icone
-image_icon = PhotoImage(file="images/cloudy.png")
+image_icon = PhotoImage(file="images/logo.png")
 root.iconphoto(False,image_icon)
 
 Round_box = PhotoImage(file="images/rounded-rectangle-xxl.png")
